@@ -1,0 +1,35 @@
+.txt1{
+    color:#b9e3c6;
+    font-size: 40px;
+}
+.txt{
+    font-size: 40px;
+    color: #113a5d;
+}
+.navbar-search{
+    width: 60rem;
+}
+.navbar-search-btn{
+    color: #062743;
+    background-color: #062743;
+}
+input{
+    border: 2px solid #b9e3c6;
+    width: 90%;
+}
+input:hover{
+    border: 2px solid #b9e3c6;
+}
+input:focus{
+    border: 2px solid #b9e3c6;
+} 
+.navbar-bottom{
+    background-color: #b9e3c6;
+}
+.nav-link:hover{
+    color: #113a5d;
+}
+/* background: #062743; 
+	background: #113a5d; 
+	background: #b9e3c6;
+	background: #f9f9f9;  */
